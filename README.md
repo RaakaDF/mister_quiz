@@ -6,6 +6,7 @@ Mister-Quiz is a project that involves to continue to build a quiz game website 
 <h2>À propos de Laravel :</h2>  
 Laravel est un framework d'application Web avec une syntaxe expressive et élégante. Laravel simplifie le développement en facilitant les tâches courantes utilisées dans de nombreux projets Web, il possède les éléments suivants :
 
+
 Moteur de routage simple et rapide .  
 Conteneur d'injection de dépendance puissant .  
 Plusieurs back-ends pour le stockage de session et de cache .  
